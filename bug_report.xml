@@ -1,1 +1,14 @@
-
+<xml>
+   <Title>Subscription form is missing on the main page</Title>
+   <Description>User can't subscribe on main page</Description>
+   <Pre-condition>User is on the main page</Pre-condition>
+   <Steps>Scroll page down</Steps>
+   <Actual_result>Subscription form is missing</Actual_result>
+   <Expected_result>Subscription form is presented on the main page</Expected_result>
+   <Requirements>R001</Requirements>
+   <Enviroument>stage</Enviroument>
+   <Severity>Major</Severity>
+   <Priority>Medium</Priority>
+   <Atachments></Atachments>
+   <Assignee>developer</Assignee>
+</xml>
