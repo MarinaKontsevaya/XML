@@ -1,0 +1,13 @@
+<xml>
+        <theory>what is testing, QA, QC, test documentation, types of testing... SDLC, STLC</theory>
+        <Client-server>request, response structures</Client-server>
+	<JSON>structure</JSON>
+        <XML>structure</XML>
+	<API_testing>Postman, Fidler</API_testing>
+	<Dev_Tools>Google Chrome, FireFox</Dev_Tools>
+	<Mobile_testing>iOS, Android, Android Studio</Mobile_testing>
+	<Terminal>Linux</Terminal>
+	<Git>GitBush, CitHub</Git>
+	<SQL>Create, Delete, Drop, Insert Into, Select, From, Where, Join</SQL>
+	<etc></etc>
+</xml>
